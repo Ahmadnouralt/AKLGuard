@@ -1,0 +1,6 @@
+psutil
+pywin32
+pandas
+scapy
+pefile
+streamlit
